@@ -2,6 +2,10 @@
 
 > A minimal github search based on Vue.js
 
+# Inspiration
+
+A Cassidy Williams tutorial @ https://github.com/cassidoo/github-user-search
+
 ## Build Setup
 
 ``` bash
